@@ -1,1 +1,1 @@
-This repository has one directory /blog_fe which will have all exercises done (except one) of part 5 Full Stack course.
+This repository has directories /blog_fe which will have all exercises done (except one) of part 5 Full Stack courses which response for "blog" project front-end and it has directory /blog_be which is a back-end side of a "blog" project.
